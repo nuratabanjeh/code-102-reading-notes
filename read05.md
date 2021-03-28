@@ -30,8 +30,8 @@ Both sides are false so the result will be false
 •	EXAMPLES:
 -	&& (logical and) for more than one condition
 ((2<5) &&(3>=2)) will give you true
--	|| (logical or) for just one condition
-((2<5) || (2<1)) will give true
+-	,||, (logical or) for just one condition
+((2<5) ,||, (2<1)) will give true
 -	! (logical not) it gives the opposite of answer
 !(2<1) will give true.
 LOOPS
