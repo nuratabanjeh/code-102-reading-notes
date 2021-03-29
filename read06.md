@@ -1,5 +1,6 @@
 # READ 6
  ## COLORS
+
 Colors will bring life to your site and pages, there is some ways to add colors to your pages:
 1.	RGB values
 
@@ -24,4 +25,7 @@ Computer monitors are made of pixels, each pixel will give a color so the screen
 
 **We can control something called contrast by controlling the (HUE, SATURATION, BRIGHTNESS)
 They will control the grey and black in colors**
+
+*CSS3 has introduced an extra value for RGB colors it is known as RGBA*
+
 **Thank you**
