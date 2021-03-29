@@ -1,5 +1,6 @@
 # READ 6
- ## COLORS
+
+ ### COLORS
 
 Colors will bring life to your site and pages, there is some ways to add colors to your pages:
 1.	RGB values
