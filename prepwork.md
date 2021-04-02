@@ -1,4 +1,6 @@
-# Introduction
+# Prep Work
+
+## Introduction
 
 HTML: in HTML you will write the words that you want to appear on your page.
 CSS: in CSS you will control the styling and layout of your webpage.
