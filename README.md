@@ -14,7 +14,7 @@
 
 ## **code 201 Reading Notes**
 
-**__here is my reading notes for code 201__**
+**here is my reading notes for code 201**
 
 |Assignment   | Link                |
 |------------ | -------------       |
