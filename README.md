@@ -21,7 +21,7 @@
 |Read01       |  [prepwork](prepwork.md) |
 |Read02       |  [class02](class02.md)   |
 |Read03       |  [class03](class03.md)   |
-|Read04       |                          |
+|Read04       |  [class04](class04.md)   |
 |Read05       |                          |
 |Read06       |                          |
 |Read07       |                          |
