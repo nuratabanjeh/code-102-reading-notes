@@ -23,7 +23,7 @@
 |Read03       |  [class03](class03.md)   |
 |Read04       |  [class04](class04.md)   |
 |Read05       |  [class05](class05.md)   |
-|Read06       |                          |
+|Read06       |  [class05](class06.md)   |
 |Read07       |                          |
 |Read08       |                          |
 |Read09       |                          |  
