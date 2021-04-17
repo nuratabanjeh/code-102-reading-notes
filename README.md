@@ -28,7 +28,7 @@
 |Read08       |  [class08](class08.md)   |
 |Read09       |  [class09](class09.md)   |  
 |Read10       |  [class10](class10.md)   |
-|Read11       |                          |
+|Read11       |  [class11](class11.md)   |
 |Read12       |                          |
 |Read13       |                          |
 |Read14       |                          |
