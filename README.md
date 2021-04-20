@@ -31,7 +31,7 @@
 |Read11       |  [class11](class11.md)   |
 |Read12       |  [class12](class12.md)   |
 |Read13       |  [class13](class13.md)   |
-|Read14       |                          |
-|Read15       |                          |
+|Read14       |  [class14](class14.md)   |
+|Read15       |  [class14b](class14b.md) |
 
 [Prep work](prepwork.md)
