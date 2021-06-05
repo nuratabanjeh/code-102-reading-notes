@@ -40,9 +40,9 @@
 
 **here is my reading notes for code 301**
 
-|Assignment   | Link      |
-|------------ | --------- |
-|Read01       |           |
+|Assignment   | Link                             |
+|------------ | ---------                        |
+|Read01       | [Read01](301coarse1.md)          |
 |Read02       |           |
 |Read03       |           |
 |Read04       |           |
@@ -58,3 +58,5 @@
 |Read14       |           |
 |Read15       |           | 
 
+
+## Things I want to know more about
