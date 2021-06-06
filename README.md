@@ -43,7 +43,7 @@
 |Assignment   | Link                             |
 |------------ | ---------                        |
 |Read01       | [Read01](301coarse1.md)          |
-|Read02       |           |
+|Read02       | [Read02](301coarse2.md)          |
 |Read03       |           |
 |Read04       |           |
 |Read05       |           |
