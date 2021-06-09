@@ -45,8 +45,8 @@
 |Read01       | [Read01](301coarse1.md)          |
 |Read02       | [Read02](301coarse2.md)          |
 |Read03       | [Read03](301coarse3.md)          |
-|Read04       | [Read04](301coarse4.md)         |
-|Read05       |           |
+|Read04       | [Read04](301coarse4.md)          |
+|Read05       | [Read05](301coarse5.md)          |
 |Read06       |           |
 |Read07       |           |
 |Read08       |           |
