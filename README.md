@@ -48,7 +48,7 @@
 |Read04       | [Read04](301coarse4.md)          |
 |Read05       | [Read05](301coarse5.md)          |
 |Read06       | [Read06](301coarse6.md)          |
-|Read07       |           |
+|Read07       | [Read07](301coarse7.md)          |
 |Read08       |           |
 |Read09       |           |  
 |Read10       |           |
