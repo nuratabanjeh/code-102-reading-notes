@@ -49,7 +49,7 @@
 |Read05       | [Read05](301coarse5.md)          |
 |Read06       | [Read06](301coarse6.md)          |
 |Read07       | [Read07](301coarse7.md)          |
-|Read08       |           |
+|Read08       | [Read08](301coarse8.md)          |
 |Read09       |           |  
 |Read10       |           |
 |Read11       |           |
