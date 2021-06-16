@@ -50,8 +50,8 @@
 |Read06       | [Read06](301coarse6.md)          |
 |Read07       | [Read07](301coarse7.md)          |
 |Read08       | [Read08](301coarse8.md)          |
-|Read09       | [Read09](301coarse9.md)         |  
-|Read10       |           |
+|Read09       | [Read09](301coarse9.md)          |  
+|Read10       | [Read10](301coarse10.md)         |
 |Read11       |           |
 |Read12       |           |
 |Read13       |           |
