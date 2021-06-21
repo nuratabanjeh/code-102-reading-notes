@@ -53,7 +53,7 @@
 | Read10     | [Read10](301coarse10.md) |
 | Read11     | [Read11](301coarse11.md) |
 | Read12     | [Read12](301coarse12.md) |
-| Read13     |                          |
+| Read13     | [Read13](301coarse13.md) |
 | Read14     |                          |
 | Read15     |                          |
 
