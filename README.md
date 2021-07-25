@@ -64,7 +64,7 @@
 | Assignment | Link                  |
 | ---------- | --------------------- |
 | Read01     | [Read01](401read1.md) |
-| Read02     |                       |
+| Read02     | [Read02](401read2.md) |
 | Read03     |                       |
 | Read04     |                       |
 | Read05     |                       |
