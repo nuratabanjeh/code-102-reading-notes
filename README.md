@@ -68,7 +68,7 @@
 | Read03     | [Read03](401read3.md) |
 | Read04     | [Read04](401read4.md) |
 | Read05     | [Read05](401read5.md) |
-| Read06     |                       |
+| Read06     | [Read06](401read6.md) |
 | Read07     |                       |
 | Read08     |                       |
 | Read09     |                       |
