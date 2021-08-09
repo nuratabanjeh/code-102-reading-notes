@@ -75,6 +75,6 @@
 | Read10     | [Read10](401read10.md) |
 | Read11     | [Read11](401read11.md)                     |
 | Read12     | [Read12](401read12.md)                      |
-| Read13     |                       |
+| Read13     | [Read13](401read13.md)                      |
 | Read14     |                       |
 | Read15     |                       |
