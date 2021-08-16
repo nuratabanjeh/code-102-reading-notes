@@ -79,4 +79,5 @@
 | Read14     | [Read14](401read14.md)                     |
 | Read15     | [Read15](401read15.md) 
 | Read16     | [Read16](401read16.md) 
-| Read17     | [Read17](401read17.md)                    |
+| Read17     | [Read17](401read17.md)
+| Read18     | [Read18](401read18.md)                    |
