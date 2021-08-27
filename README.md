@@ -81,4 +81,5 @@
 | Read16     | [Read16](401read16.md) 
 | Read17     | [Read17](401read17.md)
 | Read18     | [Read18](401read18.md)
-| Read19     | [Read19](401read19.md)                    |
+| Read19     | [Read19](401read19.md)
+| Read20     | [Read20](401read20.md)                    |
