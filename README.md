@@ -88,4 +88,5 @@
 | Read23     | [Read23](401read23.md)
 | Read24     | [Read24](401read24.md)
 | Read25     | [Read25](401read25.md) 
-| Read26     | [Read26](401read26.md)                     |
+| Read26     | [Read26](401read26.md)
+| Read27     | [Read27](401read27.md)                     |
