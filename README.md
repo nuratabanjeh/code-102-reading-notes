@@ -93,4 +93,5 @@
 | Read28     | [Read28](401read28.md) 
 | Read29     | [Read29](401read29.md)
 | Read30     | [Read30](401read30.md)
-| Read31     | [Read31](401read31.md)                      |
+| Read31     | [Read31](401read31.md)
+| Read32     | [Read32](401read32.md)                      |
